@@ -3,7 +3,7 @@
 This demo project showcases the integration of dynamic and interactive fragment shaders in a Flutter application. Fragment shaders, also known as pixel shaders, allow for real-time visual effects, opening up exciting possibilities for interactive user experiences.
 
 
-https://github.com/monster555/flutter_interactive_shader_demo/assets/32662133/b7f5adbd-1e6c-46a4-a61c-41e20839dd09
+https://github.com/monster555/flutter_interactive_shader_demo/assets/32662133/a9d85d1c-6884-4a2a-a655-98aac047341e
 
 
 Like this project? Consider supporting its upkeep with a coffee. Your generosity is appreciated! ☕
